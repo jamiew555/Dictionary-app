@@ -1,3 +1,10 @@
 .footer {
   text-align: center;
 }
+
+.App-header {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+}
